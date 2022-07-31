@@ -9,3 +9,13 @@ footer:hover{
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
 }
+
+.re{
+ display: flex;
+    float: left;
+}
+
+.rer{
+display: flex;
+    float: right;
+}
