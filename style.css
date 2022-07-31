@@ -1,0 +1,11 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+footer{
+    background-color: rgb(252, 47, 47);
+    color: rgb(255, 255, 255);
+}
+footer:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
