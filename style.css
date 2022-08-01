@@ -10,12 +10,17 @@ footer:hover{
     background-color: rgb(255, 255, 255);
 }
 
-.re{
- display: flex;
+.a{
+display: flex;
+    flex-wrap: wrap;
+}
+
+.b{
+display: flex;
     float: left;
 }
 
-.rer{
+.d{
 display: flex;
     float: right;
 }
