@@ -1,0 +1,14 @@
+.a{
+display: flex;
+    flex-wrap: wrap;
+}
+
+.b{
+display: flex;
+    float: left;
+}
+
+.d{
+display: flex;
+    float: right;
+}
